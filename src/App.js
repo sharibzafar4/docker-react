@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello! I am running in a container over a nginx server.
+          I am live, bitch!!
         </p>
         <a
           className="App-link"
